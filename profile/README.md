@@ -1,4 +1,4 @@
-# Origetec /Origesoft
+# Origetec
 
 > **Central das nossas aplicações.**
 > Aqui ficam as ferramentas e soluções internas que a Origetec desenvolve e mantém.
